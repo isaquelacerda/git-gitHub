@@ -1,7 +1,11 @@
 teste
 <<<<<<< HEAD
+<<<<<<< HEAD
 teste
 teste
 teste
 =======
 >>>>>>> a923fac38df98168ff6b30ba44153404d6130bc3
+=======
+Yep
+>>>>>>> 003444d9840fb78a122349425b03ea7619c443c9
